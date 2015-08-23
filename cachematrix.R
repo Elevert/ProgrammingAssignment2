@@ -43,3 +43,4 @@
      inv.m <- solve(data) 
      x$setinverse(inv.m) 
      inv.m
+ } 
